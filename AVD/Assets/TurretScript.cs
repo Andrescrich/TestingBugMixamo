@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using UnityEngine;
 
 public class TurretScript : MonoBehaviour
@@ -8,8 +9,31 @@ public class TurretScript : MonoBehaviour
     [SerializeField] private GameObject bullet;
     [SerializeField] private float frequency;
     private static readonly int Shoot1 = Animator.StringToHash("Shoot");
+    private static readonly int Destroy1 = Animator.StringToHash("Destroy");
+    private Animator anim;
     private bool shooting;
 
+
+    public static TurretScript Instance { get; private set; }
+    private void Awake()
+    {
+        anim = GetComponent<Animator>();
+        if(Instance == null)
+            Instance = this;
+        else 
+            Destroy(gameObject);
+    }
+
+    private void Start()
+    {
+        Invoke(nameof(Destroy), 5);
+    }
+
+    private void Update()
+    {
+        if(Input.GetButtonDown("Fire2"))
+            Destroy();
+    }
 
     public void Shooting()
     {
@@ -39,5 +63,16 @@ public class TurretScript : MonoBehaviour
     private void OnDisable()
     {
         StopAllCoroutines();
+    }
+
+    private void Destroy()
+    {
+        anim.SetTrigger(Destroy1);
+        StopAllCoroutines();
+    }
+
+    public void Dissapear()
+    {
+        Destroy(gameObject);
     }
 }

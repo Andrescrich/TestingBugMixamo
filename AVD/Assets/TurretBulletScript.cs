@@ -28,9 +28,11 @@ public class TurretBulletScript : MonoBehaviour
 
     public void OnCollisionEnter(Collision other)
     {
-        if (other.gameObject.layer != 16) return;
         var collisionPoint = other.contacts[0].point;
         rb.Sleep();
+        if (other.gameObject.layer == 17)
+            other.gameObject.GetComponent<Animator>().SetTrigger("Death");
         anim.SetTrigger("Die");
+       
     }
 }
