@@ -6,6 +6,7 @@ public class MoveTo : MonoBehaviour
     private RaycastHit hitInfo;
     private NavMeshAgent agent;
     private Animator anim;
+    public GameObject flag;
 
     private void Awake()
     {
@@ -21,6 +22,9 @@ public class MoveTo : MonoBehaviour
             if (Physics.Raycast(ray.origin, ray.direction, out hitInfo))
             {
                 agent.destination = hitInfo.point;
+                flag.GetComponentInChildren<MeshRenderer>().enabled = true;
+                flag.transform.position = hitInfo.point + new Vector3(0f, 0.5f);
+                flag.GetComponentInParent<Animator>().SetTrigger("set");
             }
         }
     }

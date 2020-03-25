@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.AI;
 
 [RequireComponent(typeof(NavMeshAgent))]
@@ -45,11 +46,30 @@ public class LocomotionSimpleAgent : MonoBehaviour
         //GetComponent<LookAt>().lookAtTargetPosition = agent.steeringTarget + transform.forward;
     }
 
-    void OnAnimatorMove()
+    private void OnAnimatorMove()
     {
         // Update position to agent position
         transform.position = agent.nextPosition;
+    }
 
-      
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.layer == 18)
+        {
+            anim.SetBool("dancing", true);
+        }
+
+        if (other.gameObject.layer == 19)
+        {
+            other.GetComponentInChildren<MeshRenderer>().enabled = false;
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.layer == 18)
+        {
+            anim.SetBool("dancing", false);
+        }
     }
 }
