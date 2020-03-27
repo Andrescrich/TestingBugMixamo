@@ -56,6 +56,7 @@ public class LocomotionSimpleAgent : MonoBehaviour
     {
         if (other.gameObject.layer == 18)
         {
+            GetComponent<TimelineController>().Play();
             anim.SetBool("dancing", true);
         }
 

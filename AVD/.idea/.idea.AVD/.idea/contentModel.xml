@@ -120,6 +120,7 @@
         <e p="PlayerMovement.cs" t="Include" />
         <e p="SimpleGo.cs" t="Include" />
         <e p="ThrowTurret.cs" t="Include" />
+        <e p="TimelineController.cs" t="Include" />
         <e p="TurretBallScript.cs" t="Include" />
         <e p="TurretBulletScript.cs" t="Include" />
         <e p="TurretScript.cs" t="Include" />
