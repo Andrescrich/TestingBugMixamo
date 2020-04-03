@@ -15,6 +15,7 @@
         </e>
         <e p="BulletScript.cs" t="Include" />
         <e p="CanvasScript.cs" t="Include" />
+        <e p="ChestScript.cs" t="Include" />
         <e p="Creator Kit - Beginner Code" t="Include">
           <e p="Art" t="Include">
             <e p="Fonts" t="Include">
@@ -113,11 +114,13 @@
         </e>
         <e p="CreatorKit_BeginnerCode_Third-PartyNotice.txt" t="Include" />
         <e p="csc.rsp" t="Include" />
+        <e p="FlagScript.cs" t="Include" />
         <e p="FrogScript.cs" t="Include" />
         <e p="GemScript.cs" t="Include" />
         <e p="LocomotionSimpleAgent.cs" t="Include" />
         <e p="MoveTo.cs" t="Include" />
         <e p="PlayerMovement.cs" t="Include" />
+        <e p="PlayerScript.cs" t="Include" />
         <e p="SimpleGo.cs" t="Include" />
         <e p="ThrowTurret.cs" t="Include" />
         <e p="TimelineController.cs" t="Include" />

@@ -59,11 +59,6 @@ public class LocomotionSimpleAgent : MonoBehaviour
             GetComponent<TimelineController>().Play();
             anim.SetBool("dancing", true);
         }
-
-        if (other.gameObject.layer == 19)
-        {
-            other.GetComponentInChildren<MeshRenderer>().enabled = false;
-        }
     }
 
     private void OnTriggerExit(Collider other)

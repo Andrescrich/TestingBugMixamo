@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.ProBuilder;
 
 public class MoveTo : MonoBehaviour
 {
@@ -7,6 +8,7 @@ public class MoveTo : MonoBehaviour
     private NavMeshAgent agent;
     private Animator anim;
     public GameObject flag;
+    public LayerMask lm;
 
     private void Awake()
     {
@@ -19,7 +21,7 @@ public class MoveTo : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            if (Physics.Raycast(ray.origin, ray.direction, out hitInfo))
+            if (Physics.Raycast(ray.origin, ray.direction, out hitInfo, Mathf.Infinity, lm))
             {
                 agent.destination = hitInfo.point;
                 flag.GetComponentInChildren<MeshRenderer>().enabled = true;
