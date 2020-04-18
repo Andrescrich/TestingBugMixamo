@@ -171,7 +171,7 @@ namespace CreatorKitCodeInternal {
                 return;
             }
         
-            Ray screenRay = CameraController.Instance.GameplayCamera.ScreenPointToRay(Input.mousePosition);
+            Ray screenRay = Camera.main.ScreenPointToRay(Input.mousePosition);
         
             if (m_TargetInteractable != null)
             {
