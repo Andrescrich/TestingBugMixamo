@@ -2,184 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="077a3d0b-ad5b-4481-bf32-30c8fc317323" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/ADV/CameraScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ADV/CameraScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ADV/FinalProject.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ADV/FinalProject/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ADV/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ADV/Scenes/MainMenu.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations/Animators.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations/CactusBossy.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations/CactusNail.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations/Llama.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations/MadMikeMoose.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Fonts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Fonts/Rye.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material/Characters.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material/Dropship.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material/Particles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material/Props.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Models.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Models/Buildings.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Models/Characters.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Models/Props.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Shaders.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Buildings.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/CactusBossy.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/CactusNails.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Llama.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/MadMooseMike.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Particles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Props.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Terrain.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/TerrainLayers.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Tools.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/UIElements.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Audio.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Audio/BGM.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Audio/SFX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs/InGameItem.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs/ItemDatabase.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs/Particles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs/Tutorial.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/ProBuilder Data.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scenes/ExampleScene.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scenes/ExampleScene_Profiles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Audio.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/CharacterSystem.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Characters.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Characters/Player.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Editor/DocUnzip.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/GameplayObject.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Items.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Items/Effects.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Tutorial.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Utility.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Terrain.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ADV/MAIN2019V.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/MAIN2019V.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/Animators.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/Animators.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy/CactusBossy_Faint.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy/CactusBossy_Faint.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy/CactusBossy_Hit.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy/CactusBossy_Hit.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy/CactusBossy_Idle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy/CactusBossy_Idle.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy/CactusBossy_Slam.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy/CactusBossy_Slam.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy/CactusBossy_Walk.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusBossy/CactusBossy_Walk.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail/CactusNails_Attack.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail/CactusNails_Attack.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail/CactusNails_Faint.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail/CactusNails_Faint.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail/CactusNails_Hit.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail/CactusNails_Hit.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail/CactusNails_Idle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail/CactusNails_Idle.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail/CactusNails_Run.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/CactusNail/CactusNails_Run.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/Llama.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/Llama.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/Llama/Llama_Idle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/Llama/Llama_Idle.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose/MadMikeMoose_Attack.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose/MadMikeMoose_Attack.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose/MadMikeMoose_Faint.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose/MadMikeMoose_Faint.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose/MadMikeMoose_Hit.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose/MadMikeMoose_Hit.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose/MadMikeMoose_Idle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose/MadMikeMoose_Idle.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose/MadMikeMoose_Run.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Animations/MadMikeMoose/MadMikeMoose_Run.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Fonts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Fonts.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Fonts/Rye.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Fonts/Rye.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material/Characters.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material/Characters.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material/Dropship.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material/Dropship.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material/Particles.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material/Particles.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material/Props.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material/Props.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material/UI.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Material/UI.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Bank.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Bank.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Barbers.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Barbers.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Barn.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Barn.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_CandyShop.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_CandyShop.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_FarmHouse.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_FarmHouse.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Hotel.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Hotel.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_HouseA.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_HouseA.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_HouseB.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_HouseB.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_HouseC.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_HouseC.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_OuthouseA.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_OuthouseA.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_OuthouseB.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_OuthouseB.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_OuthouseC.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_OuthouseC.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Saloon.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Saloon.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Sheriff.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_Sheriff.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_StoreBoots.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_StoreBoots.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_StoreGeneral.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Buildings/Building_StoreGeneral.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Characters.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Characters.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Characters/CactusBossy.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Characters/CactusBossy.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Characters/CactusNails.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Characters/CactusNails.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Characters/Llama.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Characters/Llama.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Characters/MikeMoose.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Characters/MikeMoose.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Barrel.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Barrel.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/BrokenBarrelPieces.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/BrokenBarrelPieces.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Dropship.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Dropship.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Fence.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Fence.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Lightpost.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Lightpost.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/LightpostWires.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/LightpostWires.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Mine.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Mine.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Money.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Money.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Potion.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Potion.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Rake_Basic.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Models/Props/Rake_Basic.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Shaders.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Shaders.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Buildings.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Buildings.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/CactusBossy.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/CactusBossy.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/CactusNails.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/CactusNails.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Llama.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Llama.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/MadMooseMike.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/MadMooseMike.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Particles.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Particles.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Props.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Props.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Terrain.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Terrain.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/TerrainLayers.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/TerrainLayers.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Tools.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/Tools.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/UIElements.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Art/Texture/UIElements.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Audio.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Audio.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Audio/BGM.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Audio/BGM.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Audio/SFX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Audio/SFX.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/InGameItem.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/InGameItem.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/ItemDatabase.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/ItemDatabase.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/Particles.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/Particles.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/Tutorial.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/Tutorial.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/UI.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/UI.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/ProBuilder Data.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/ProBuilder Data.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scenes.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scenes/ExampleScene.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scenes/ExampleScene.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/UI/GameUI.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Prefabs/UI/GameUI.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scenes/ExampleScene/GlobalPostVolume Profile 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scenes/ExampleScene/GlobalPostVolume Profile 1.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scenes/ExampleScene/GlobalPostVolume Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scenes/ExampleScene/GlobalPostVolume Profile.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scenes/ExampleScene_Profiles.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scenes/ExampleScene_Profiles.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Audio.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Audio.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/CharacterControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/CharacterControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Editor/DocUnzip.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Editor/DocUnzip.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/GameplayObject.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/GameplayObject.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Items.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Items.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Items/Effects.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Items/Effects.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Tutorial.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Tutorial.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/UI.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/UI.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Utility.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Utility.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Terrain.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Terrain.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/UniversalRenderPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/UniversalRenderPipelineAsset.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,23 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MoveTo.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-              <folding>
-                <marker date="1585931917030" expanded="true" signature="6:70" ph="..." />
-                <marker date="1585931917030" expanded="true" signature="107:959" ph="{...}" />
-                <marker date="1585931917030" expanded="true" signature="279:378" ph="{...}" />
-                <marker date="1585931917030" expanded="true" signature="409:957" ph="{...}" />
-                <marker date="1585931917030" expanded="true" signature="456:951" ph="{...}" />
-                <marker date="1585931917030" expanded="true" signature="632:941" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ADV/CameraScript.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -220,11 +32,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/CharacterControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
+            <state relative-caret-position="2916">
               <caret line="170" column="23" selection-start-line="170" selection-start-column="23" selection-end-line="170" selection-end-column="23" />
               <folding>
-                <marker date="1587234652184" expanded="false" signature="6:227" ph="..." />
-                <marker date="1587234652184" expanded="true" signature="262:15449" ph="{...}" />
                 <marker date="1587234652184" expanded="true" signature="436:15447" ph="{...}" />
                 <marker date="1587234652184" expanded="true" signature="1608:1813" ph="/* this is a flag that tell the controller it need to clear the target once the attack finished. ... */" />
                 <marker date="1587234652184" expanded="true" signature="1920:2000" ph="{...}" />
@@ -290,11 +100,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MainMenuUI.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="54">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+                <marker date="1587236692437" expanded="true" signature="94:281" ph="{...}" />
+                <marker date="1587236692437" expanded="true" signature="121:211" ph="{...}" />
+                <marker date="1587236692437" expanded="true" signature="239:279" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/UI/UISystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
             </state>
           </provider>
         </entry>
@@ -302,11 +127,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/LocomotionSimpleAgent.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
+            <state relative-caret-position="738">
               <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
               <folding>
-                <marker date="1585925219446" expanded="true" signature="6:54" ph="..." />
-                <marker date="1585925219446" expanded="true" signature="184:2107" ph="{...}" />
+                <element signature="e#0#54#0" expanded="true" />
                 <marker date="1585925219446" expanded="true" signature="332:516" ph="{...}" />
                 <marker date="1585925219446" expanded="true" signature="535:1577" ph="{...}" />
                 <marker date="1585925219446" expanded="true" signature="1612:1718" ph="{...}" />
@@ -322,10 +146,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/FlagScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="108">
               <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding>
-                <marker date="1585925251742" expanded="true" signature="6:92" ph="..." />
+                <element signature="e#0#92#0" expanded="true" />
                 <marker date="1585925251742" expanded="true" signature="133:424" ph="{...}" />
                 <marker date="1585925251742" expanded="true" signature="190:255" ph="{...}" />
                 <marker date="1585925251742" expanded="true" signature="282:422" ph="{...}" />
@@ -337,10 +161,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ChestScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="270">
               <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
               <folding>
-                <marker date="1585930726124" expanded="true" signature="6:61" ph="..." />
+                <element signature="e#0#61#0" expanded="true" />
                 <marker date="1585930726124" expanded="true" signature="103:455" ph="{...}" />
                 <marker date="1585930726124" expanded="true" signature="188:269" ph="{...}" />
                 <marker date="1585930726124" expanded="true" signature="318:453" ph="{...}" />
@@ -353,10 +177,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/CanvasScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="108">
               <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
               <folding>
-                <marker date="1583522285556" expanded="false" signature="6:113" ph="..." />
                 <marker date="1583522285556" expanded="true" signature="156:254" ph="{...}" />
                 <marker date="1583522285556" expanded="true" signature="201:252" ph="{...}" />
               </folding>
@@ -411,7 +234,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/André/Files for 14th Feb/Player2DControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ChestScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SimpleGo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MainMenuUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MainMenuUI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TimelineController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CanvasScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -446,6 +269,7 @@
         <option value="$PROJECT_DIR$/Assets/ChestScript.cs" />
         <option value="$PROJECT_DIR$/Assets/MoveTo.cs" />
         <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/CharacterControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainMenuUI.cs" />
       </list>
     </option>
   </component>
@@ -457,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="29" />
     <option name="y" value="131" />
     <option name="width" value="1696" />
@@ -544,12 +368,13 @@
       <workItem from="1585331952758" duration="637000" />
       <workItem from="1585748321710" duration="3056000" />
       <workItem from="1585925055071" duration="3612000" />
-      <workItem from="1587234620367" duration="633000" />
+      <workItem from="1587234620367" duration="1339000" />
+      <workItem from="1587245583701" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58641000" />
+    <option name="totallyTimeSpent" value="59353000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -561,8 +386,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="977" y="169" width="1696" height="1036" extended-state="0" />
-    <editor active="true" />
+    <frame x="29" y="131" width="1696" height="1036" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24986681" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -781,94 +605,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/LocomotionSimpleAgent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
-          <folding>
-            <marker date="1585925219446" expanded="true" signature="6:54" ph="..." />
-            <marker date="1585925219446" expanded="true" signature="184:2107" ph="{...}" />
-            <marker date="1585925219446" expanded="true" signature="332:516" ph="{...}" />
-            <marker date="1585925219446" expanded="true" signature="535:1577" ph="{...}" />
-            <marker date="1585925219446" expanded="true" signature="1612:1718" ph="{...}" />
-            <marker date="1585925219446" expanded="true" signature="1767:1939" ph="{...}" />
-            <marker date="1585925219446" expanded="true" signature="1815:1933" ph="{...}" />
-            <marker date="1585925219446" expanded="true" signature="1987:2105" ph="{...}" />
-            <marker date="1585925219446" expanded="true" signature="2035:2099" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/FlagScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <marker date="1585925251742" expanded="true" signature="6:92" ph="..." />
-            <marker date="1585925251742" expanded="true" signature="133:424" ph="{...}" />
-            <marker date="1585925251742" expanded="true" signature="190:255" ph="{...}" />
-            <marker date="1585925251742" expanded="true" signature="282:422" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ChestScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <marker date="1585930726124" expanded="true" signature="6:61" ph="..." />
-            <marker date="1585930726124" expanded="true" signature="103:455" ph="{...}" />
-            <marker date="1585930726124" expanded="true" signature="188:269" ph="{...}" />
-            <marker date="1585930726124" expanded="true" signature="318:453" ph="{...}" />
-            <marker date="1585930726124" expanded="true" signature="377:447" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CanvasScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <marker date="1583522285556" expanded="false" signature="6:113" ph="..." />
-            <marker date="1583522285556" expanded="true" signature="156:254" ph="{...}" />
-            <marker date="1583522285556" expanded="true" signature="201:252" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/FrogScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1583522285562" expanded="true" signature="59:381" ph="{...}" />
-            <marker date="1583522285562" expanded="true" signature="187:240" ph="{...}" />
-            <marker date="1583522285562" expanded="true" signature="265:310" ph="{...}" />
-            <marker date="1583522285562" expanded="true" signature="337:378" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GemScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1583522285564" expanded="true" signature="58:483" ph="{...}" />
-            <marker date="1583522285564" expanded="true" signature="187:240" ph="{...}" />
-            <marker date="1583522285564" expanded="true" signature="293:413" ph="{...}" />
-            <marker date="1583522285564" expanded="true" signature="350:407" ph="{...}" />
-            <marker date="1583522285564" expanded="true" signature="440:481" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MoveTo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="36">
           <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
           <folding>
-            <marker date="1585931917030" expanded="true" signature="6:70" ph="..." />
+            <element signature="e#0#70#0" expanded="true" />
             <marker date="1585931917030" expanded="true" signature="107:959" ph="{...}" />
             <marker date="1585931917030" expanded="true" signature="279:378" ph="{...}" />
             <marker date="1585931917030" expanded="true" signature="409:957" ph="{...}" />
@@ -889,11 +631,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/CharacterControl.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
+        <state relative-caret-position="2916">
           <caret line="170" column="23" selection-start-line="170" selection-start-column="23" selection-end-line="170" selection-end-column="23" />
           <folding>
-            <marker date="1587234652184" expanded="false" signature="6:227" ph="..." />
-            <marker date="1587234652184" expanded="true" signature="262:15449" ph="{...}" />
             <marker date="1587234652184" expanded="true" signature="436:15447" ph="{...}" />
             <marker date="1587234652184" expanded="true" signature="1608:1813" ph="/* this is a flag that tell the controller it need to clear the target once the attack finished. ... */" />
             <marker date="1587234652184" expanded="true" signature="1920:2000" ph="{...}" />
@@ -958,10 +698,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/LocomotionSimpleAgent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+            <marker date="1585925219446" expanded="true" signature="332:516" ph="{...}" />
+            <marker date="1585925219446" expanded="true" signature="535:1577" ph="{...}" />
+            <marker date="1585925219446" expanded="true" signature="1612:1718" ph="{...}" />
+            <marker date="1585925219446" expanded="true" signature="1767:1939" ph="{...}" />
+            <marker date="1585925219446" expanded="true" signature="1815:1933" ph="{...}" />
+            <marker date="1585925219446" expanded="true" signature="1987:2105" ph="{...}" />
+            <marker date="1585925219446" expanded="true" signature="2035:2099" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FlagScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#92#0" expanded="true" />
+            <marker date="1585925251742" expanded="true" signature="133:424" ph="{...}" />
+            <marker date="1585925251742" expanded="true" signature="190:255" ph="{...}" />
+            <marker date="1585925251742" expanded="true" signature="282:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ChestScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+            <marker date="1585930726124" expanded="true" signature="103:455" ph="{...}" />
+            <marker date="1585930726124" expanded="true" signature="188:269" ph="{...}" />
+            <marker date="1585930726124" expanded="true" signature="318:453" ph="{...}" />
+            <marker date="1585930726124" expanded="true" signature="377:447" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CanvasScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <marker date="1583522285556" expanded="true" signature="156:254" ph="{...}" />
+            <marker date="1583522285556" expanded="true" signature="201:252" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FrogScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1583522285562" expanded="true" signature="59:381" ph="{...}" />
+            <marker date="1583522285562" expanded="true" signature="187:240" ph="{...}" />
+            <marker date="1583522285562" expanded="true" signature="265:310" ph="{...}" />
+            <marker date="1583522285562" expanded="true" signature="337:378" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GemScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1583522285564" expanded="true" signature="58:483" ph="{...}" />
+            <marker date="1583522285564" expanded="true" signature="187:240" ph="{...}" />
+            <marker date="1583522285564" expanded="true" signature="293:413" ph="{...}" />
+            <marker date="1583522285564" expanded="true" signature="350:407" ph="{...}" />
+            <marker date="1583522285564" expanded="true" signature="440:481" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MainMenuUI.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="54">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <marker date="1587236692437" expanded="true" signature="94:281" ph="{...}" />
+            <marker date="1587236692437" expanded="true" signature="121:211" ph="{...}" />
+            <marker date="1587236692437" expanded="true" signature="239:279" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/UI/UISystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
