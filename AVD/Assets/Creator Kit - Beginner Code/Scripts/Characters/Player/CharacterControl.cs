@@ -190,8 +190,8 @@ namespace CreatorKitCodeInternal {
             if (!Mathf.Approximately(mouseWheel, 0.0f))
             {
                 Vector3 view = m_MainCamera.ScreenToViewportPoint(Input.mousePosition);
-                if(view.x > 0f && view.x < 1f && view.y > 0f && view.y < 1f)
-                    CameraController.Instance.Zoom(-mouseWheel * Time.deltaTime * 20.0f);
+              /*  if(view.x > 0f && view.x < 1f && view.y > 0f && view.y < 1f)
+                    CameraController.Instance.Zoom(-mouseWheel * Time.deltaTime * 20.0f);*/
             }
         
             if(Input.GetMouseButtonDown(0))
