@@ -57,5 +57,10 @@ namespace CreatorKitCodeInternal
         {
             m_FootstepFrameReceiver?.FootstepFrame();
         }
+
+        public void Rotate180()
+        {
+            transform.parent.Rotate(0f, 180f, 0f);
+        }
     }
 }
