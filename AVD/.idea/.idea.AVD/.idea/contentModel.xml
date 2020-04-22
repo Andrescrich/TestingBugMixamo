@@ -117,6 +117,7 @@
         </e>
         <e p="CreatorKit_BeginnerCode_Third-PartyNotice.txt" t="Include" />
         <e p="csc.rsp" t="Include" />
+        <e p="CursorVisibleTest.cs" t="Include" />
         <e p="FlagScript.cs" t="Include" />
         <e p="FrogScript.cs" t="Include" />
         <e p="GemScript.cs" t="Include" />

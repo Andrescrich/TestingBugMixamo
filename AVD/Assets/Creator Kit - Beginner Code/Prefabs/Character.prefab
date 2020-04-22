@@ -1362,71 +1362,6 @@ Transform:
   m_Father: {fileID: 3066765141674685062}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &4477286150855701682
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 610763113063597729}
-  - component: {fileID: 7418517176107527131}
-  - component: {fileID: 2708214185286453705}
-  m_Layer: 13
-  m_Name: MadMikeMoose
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &610763113063597729
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4477286150855701682}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 5549394745342254539}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &7418517176107527131
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4477286150855701682}
-  m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 02af3baa7b9b95743b17093e5aef9dd1, type: 3}
-  m_Controller: {fileID: 9100000, guid: 78f12da4c43f6fb4f80761e582c7c699, type: 2}
-  m_CullingMode: 1
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 1
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &2708214185286453705
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4477286150855701682}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aa3d267ff6fabdc4e8b9a091ba04c8df, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  AttackFrameReceiver: {fileID: 5549394745342254541}
-  FootstepFrameReceiver: {fileID: 5549394745342254541}
 --- !u!1 &4537723040241083514
 GameObject:
   m_ObjectHideFlags: 0
@@ -1806,7 +1741,6 @@ Transform:
   - {fileID: 2429037281040712641}
   - {fileID: 135886711352931688}
   - {fileID: 5549394743663049037}
-  - {fileID: 610763113063597729}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

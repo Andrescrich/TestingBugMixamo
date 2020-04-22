@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using Cinemachine;
-using UnityEngine.EventSystems;
 
 public class CameraScript : MonoBehaviour { 
 
