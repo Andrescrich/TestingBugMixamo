@@ -13,6 +13,7 @@ namespace CreatorKitCode
     public class CharacterData : HighlightableObject
     {
         public string CharacterName;
+        public static CharacterData Instance { get; set; }
 
         public StatSystem Stats;
         /// <summary>
@@ -55,6 +56,7 @@ namespace CreatorKitCode
 
         void Awake()
         {
+            Instance = this;
             Animator anim = GetComponentInChildren<Animator>();
             if(anim != null)
                 SceneLinkedSMB<CharacterData>.Initialise(anim, this);
