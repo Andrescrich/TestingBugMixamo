@@ -70,6 +70,8 @@ namespace CreatorKitCodeInternal {
 
         State m_CurrentState;
 
+        public GameObject weaponOnHand;
+
         void Awake()
         {
             Instance = this;
@@ -104,8 +106,8 @@ namespace CreatorKitCodeInternal {
             {
                 if (item.Slot == (EquipmentItem.EquipmentSlot)666)
                 {
-                    var obj = Instantiate(item.WorldObjectPrefab, WeaponLocator, false);
-                    Helpers.RecursiveLayerChange(obj.transform, LayerMask.NameToLayer("PlayerEquipment"));
+                    weaponOnHand = Instantiate(item.WorldObjectPrefab, WeaponLocator, false);
+                    Helpers.RecursiveLayerChange(weaponOnHand.transform, LayerMask.NameToLayer("PlayerEquipment"));
                 }
             };
         
@@ -115,7 +117,7 @@ namespace CreatorKitCodeInternal {
                 {
                     foreach(Transform t in WeaponLocator)
                         Destroy(t.gameObject);
-                }
+                }    
             };
             
             m_CharacterData.Init();
