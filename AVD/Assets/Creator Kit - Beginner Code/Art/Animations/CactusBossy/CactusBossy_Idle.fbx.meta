@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 9fc7d14627bfceb4d9bb769bbffc7497
 ModelImporter:
-  serializedVersion: 28
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: 1827226128182048838
@@ -46,7 +46,7 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -119,6 +119,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 51ed1a96caabdfb43a94013d75c97f28,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
   avatarSetup: 2

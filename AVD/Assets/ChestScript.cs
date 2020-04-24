@@ -32,7 +32,7 @@ public class ChestScript : MonoBehaviour
             opened = true;
             player = other.gameObject;
             player.GetComponent<NavMeshAgent>().destination = openingPosition.position;
-            player.GetComponent<CharacterControl>().weaponOnHand.GetComponent<MeshRenderer>().enabled = false;
+            player.GetComponent<CharacterControl>().weaponOnHand.GetComponent<MeshRenderer>().enabled = false;    
             player.transform.parent = gameObject.transform;
             var rotationVector = other.transform.localRotation.eulerAngles;
             rotationVector.y = 90f;

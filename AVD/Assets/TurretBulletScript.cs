@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Security.Cryptography;
+using CreatorKitCode;
 using UnityEngine;
 
 public class TurretBulletScript : MonoBehaviour
@@ -30,9 +31,9 @@ public class TurretBulletScript : MonoBehaviour
     {
         var collisionPoint = other.contacts[0].point;
         rb.Sleep();
-        if (other.gameObject.layer == 17)
-            other.gameObject.GetComponent<Animator>().SetTrigger("Death");
+        if (other.gameObject.layer == 11)
+            other.gameObject.GetComponent<CharacterData>().Stats.DamageBullet();
         anim.SetTrigger("Die");
-       
+        
     }
 }

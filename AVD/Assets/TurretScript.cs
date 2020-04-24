@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using UnityEngine;
+using Math = UnityEngine.ProBuilder.Math;
 
 public class TurretScript : MonoBehaviour
 {
@@ -12,6 +13,8 @@ public class TurretScript : MonoBehaviour
     private static readonly int Destroy1 = Animator.StringToHash("Destroy");
     private Animator anim;
     private bool shooting;
+    public GameObject topTurret;
+    private GameObject target;
 
 
     public static TurretScript Instance { get; private set; }
@@ -48,6 +51,7 @@ public class TurretScript : MonoBehaviour
     {
         if (i >= bulletPoints.Length)
             i = 0;
+        topTurret.transform.LookAt(target.transform.position);
         Shoot(bulletPoints[i].transform);
         bulletPointAnim[i].SetTrigger(Shoot1);
         yield return new WaitForSeconds(frequency);
@@ -74,5 +78,15 @@ public class TurretScript : MonoBehaviour
     public void Dissapear()
     {
         Destroy(gameObject);
+    }
+
+    private void OnTriggerStay(Collider other)
+    {
+        if (other.gameObject.layer == 11)
+        {
+            target = other.gameObject;
+            Shooting();
+        }
+
     }
 }
