@@ -20,73 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="077a3d0b-ad5b-4481-bf32-30c8fc317323" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/FinalProject/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/BossEntrance.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/BossEntrance.playable" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/StartEnemiesDeath.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/StartEnemiesDeath.playable" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/StartOfLevelTimeline.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/StartOfLevelTimeline.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/Ending.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/Ending.playable" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ADV/MAIN2019V.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/MAIN2019V.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scenes/MainMenu.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Sounds.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Sounds/zelda-botw-puzzle-solved-sound-effect.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Sounds/zelda-botw-puzzle-solved-sound-effect.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/André/1AprilFiles/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/André/27thMarch/Dancing Party/Timeline/ChestTimeline.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/André/27thMarch/Dancing Party/Timeline/ChestTimeline.playable" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/StatSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/StatSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/CharacterControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/CharacterControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations/Animators.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations/CactusBossy.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations/CactusNail.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations/Llama.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Animations/MadMikeMoose.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Fonts/Rye.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material/Characters.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material/Dropship.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material/Particles.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material/Props.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Material/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Models/Buildings.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Models/Characters.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Models/Props.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Shaders.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Buildings.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/CactusBossy.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/CactusNails.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Llama.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/MadMooseMike.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Particles.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Props.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Terrain.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/TerrainLayers.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/Tools.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Art/Texture/UIElements.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Audio/BGM.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Audio/SFX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs/InGameItem.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs/ItemDatabase.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs/Particles.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs/Tutorial.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Prefabs/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/ProBuilder Data.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scenes/ExampleScene.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scenes/ExampleScene_Profiles.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Audio.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/CharacterSystem.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Characters/Player.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Editor/DocUnzip.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/GameplayObject.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Items/Effects.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Tutorial.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Scripts/Utility.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit2 - Beginner Code/Terrain.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StartTimelineScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StartTimelineScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BossFightTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BossFightTrigger.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,20 +93,20 @@
         <option value="$PROJECT_DIR$/Assets/MainMenuUI.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/CameraScript.cs" />
         <option value="$PROJECT_DIR$/Assets/CursorVisibleTest.cs" />
-        <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/CharacterData.cs" />
         <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/EquipmentSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/StartEnemy.cs" />
         <option value="$PROJECT_DIR$/Assets/StartEnemisScript.cs" />
         <option value="$PROJECT_DIR$/Assets/TurretBallScript.cs" />
         <option value="$PROJECT_DIR$/Assets/ThrowTurret.cs" />
         <option value="$PROJECT_DIR$/Assets/ChestScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/BossFightTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/TurretScript.cs" />
         <option value="$PROJECT_DIR$/Assets/TurretBulletScript.cs" />
         <option value="$PROJECT_DIR$/Assets/StartTimelineScript.cs" />
         <option value="$PROJECT_DIR$/Assets/DisableMovementTimeline.cs" />
         <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/CharacterControl.cs" />
         <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/StatSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/CharacterData.cs" />
+        <option value="$PROJECT_DIR$/Assets/BossFightTrigger.cs" />
       </list>
     </option>
   </component>
@@ -260,7 +197,7 @@
       <workItem from="1587658316693" duration="4638000" />
       <workItem from="1587740086209" duration="6285000" />
       <workItem from="1588008348692" duration="2000" />
-      <workItem from="1588008433039" duration="1639000" />
+      <workItem from="1588008433039" duration="3397000" />
     </task>
     <servers />
   </component>
