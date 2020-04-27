@@ -350,8 +350,8 @@ namespace CreatorKitCode
 
         public void DamageBullet()
         {
-            ChangeHealth(-1);
-            DamageUI.Instance.NewDamage(1, m_Owner.transform.position);
+            ChangeHealth(-3);
+            DamageUI.Instance.NewDamage(3, m_Owner.transform.position);
         }
     }
 

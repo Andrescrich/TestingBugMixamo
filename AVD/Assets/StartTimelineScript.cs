@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using CreatorKitCodeInternal;
+﻿using CreatorKitCodeInternal;
 using UnityEngine;
 using UnityEngine.Playables;
 
@@ -13,13 +10,7 @@ public class StartTimelineScript : MonoBehaviour
     {
         pd = GetComponent<PlayableDirector>();
     }
-
-    private void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+    
     private void Update()
     {
         if (pd.state != PlayState.Playing)

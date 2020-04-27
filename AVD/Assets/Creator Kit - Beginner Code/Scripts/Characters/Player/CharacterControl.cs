@@ -48,6 +48,7 @@ namespace CreatorKitCodeInternal {
         Collider m_TargetCollider;
         InteractableObject m_TargetInteractable = null;
         Camera m_MainCamera;
+        public bool canClick;
 
         NavMeshPath m_CalculatedPath;
 
@@ -216,7 +217,7 @@ namespace CreatorKitCodeInternal {
                 //Raycast to find object currently under the mouse cursor
                 ObjectsRaycasts(screenRay);
             
-                if (Input.GetMouseButton(0))
+                if (Input.GetMouseButton(0) && canClick)
                 {
                     if (m_TargetInteractable == null && m_CurrentTargetCharacterData == null)
                     {
