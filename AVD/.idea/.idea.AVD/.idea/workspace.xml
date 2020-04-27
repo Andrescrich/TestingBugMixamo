@@ -21,9 +21,14 @@
   <component name="ChangeListManager">
     <list default="true" id="077a3d0b-ad5b-4481-bf32-30c8fc317323" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/Ending.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/Ending.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/BossEntrance.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/BossEntrance.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/StartEnemiesDeath.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/StartEnemiesDeath.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/StartOfLevelTimeline.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/FinalProject/Timelines/StartOfLevelTimeline.playable" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ADV/MAIN2019V.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/MAIN2019V.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BossFightTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BossFightTrigger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/André/27thMarch/Dancing Party/Timeline/ChestTimeline.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/André/27thMarch/Dancing Party/Timeline/ChestTimeline.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/StatSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/StatSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StartEnemisScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StartEnemisScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +100,6 @@
         <option value="$PROJECT_DIR$/Assets/CursorVisibleTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/EquipmentSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/StartEnemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/StartEnemisScript.cs" />
         <option value="$PROJECT_DIR$/Assets/TurretBallScript.cs" />
         <option value="$PROJECT_DIR$/Assets/ThrowTurret.cs" />
         <option value="$PROJECT_DIR$/Assets/ChestScript.cs" />
@@ -104,9 +108,10 @@
         <option value="$PROJECT_DIR$/Assets/StartTimelineScript.cs" />
         <option value="$PROJECT_DIR$/Assets/DisableMovementTimeline.cs" />
         <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/Characters/Player/CharacterControl.cs" />
-        <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/StatSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/CharacterData.cs" />
         <option value="$PROJECT_DIR$/Assets/BossFightTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/StatSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/StartEnemisScript.cs" />
       </list>
     </option>
   </component>
@@ -197,7 +202,7 @@
       <workItem from="1587658316693" duration="4638000" />
       <workItem from="1587740086209" duration="6285000" />
       <workItem from="1588008348692" duration="2000" />
-      <workItem from="1588008433039" duration="3397000" />
+      <workItem from="1588008433039" duration="6257000" />
     </task>
     <servers />
   </component>

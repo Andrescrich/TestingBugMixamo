@@ -27,7 +27,6 @@ public class StartEnemisScript : MonoBehaviour
 
         if (enemies.Count == 0)
         {
-            Debug.Log("Muertos");
             pd.playableAsset = playableAsset;
             pd.Play();
             Destroy(this);

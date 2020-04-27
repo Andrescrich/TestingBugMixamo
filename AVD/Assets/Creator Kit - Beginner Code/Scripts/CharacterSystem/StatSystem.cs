@@ -79,7 +79,8 @@ namespace CreatorKitCode
                             Mathf.FloorToInt(elementalProtection[i] * (modifier.Stats.elementalProtection[i] / 100.0f));
 
                     for (int i = 0; i < elementalBoosts.Length; ++i)
-                        elementalBoosts[i] += Mathf.FloorToInt(elementalBoosts[i] * (modifier.Stats.elementalBoosts[i] / 100.0f));
+                        elementalBoosts[i] +=
+                            Mathf.FloorToInt(elementalBoosts[i] * (modifier.Stats.elementalBoosts[i] / 100.0f));
                 }
                 else
                 {
@@ -354,6 +355,7 @@ namespace CreatorKitCode
             DamageUI.Instance.NewDamage(3, m_Owner.transform.position);
         }
     }
+}
 
 #if UNITY_EDITOR
 
@@ -425,6 +427,6 @@ namespace CreatorKitCode
 
             EditorGUI.EndProperty();
         }
-    }
+    
 }
 #endif
